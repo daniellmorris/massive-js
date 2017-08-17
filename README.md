@@ -1,7 +1,7 @@
 <img src="http://rob.conery.io/img/2015/03/massive-logo.png" width=450 />
 
 ## CHANGES BY DANIEL MORRIS ##
-All I changed was removing 'ONLY' from updates and deletes. This is useful for working with table partitioning.
+All I changed was removing 'ONLY' from updates and deletes. This is useful for working with table partitioning. Our needs to require us to use only for any statements. Also I believe that in v3 the massive js team has mad so using ONLY is an optional thing for updates but I will have to check. We have yet to make the switch so this is necisary for us"
 
 ## Massive 2.0: A Postgres-centric Data Access Tool
 
