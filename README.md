@@ -1,5 +1,8 @@
 <img src="http://rob.conery.io/img/2015/03/massive-logo.png" width=450 />
 
+## CHANGES BY DANIEL MORRIS ##
+All I changed was removing 'ONLY' from updates and deletes. This is useful for working with table partitioning.
+
 ## Massive 2.0: A Postgres-centric Data Access Tool
 
 [![Build Status](https://travis-ci.org/dmfay/massive-js.svg?branch=master)](https://travis-ci.org/dmfay/massive-js)
